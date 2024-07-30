@@ -1,4 +1,4 @@
-# implicit_reference_veterans_dataset
+# implicit_reference_dataset
 
 This repository contains the generated implicit reference datasets.
 
