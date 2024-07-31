@@ -19,5 +19,4 @@ This repository contains the generated implicit reference datasets.
 - **origin**: Non-empty only for reminiscence data. Original text before any rephrasing.
 - **entity**: Implicit entity, all lower case.
 - **entity_type**: Implicit entity class type: people, places, locations, organizations, events, or dates.
-- **probability**: Non-empty only for reminiscence data. The probability that the entity is related to the text - High, Medium, or Low.
 - **links**: Tweet URL or veteran interview transcript URL.
